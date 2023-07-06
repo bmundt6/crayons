@@ -19,7 +19,11 @@
   "categories": [
     "Other"
   ],
-  "keywords": ["highlight", "crayons", "crayons highlight"],
+  "keywords": [
+    "highlight",
+    "crayons",
+    "crayons highlight"
+  ],
   "homepage": "https://github.com/vallyscode/crayons",
   "bugs": {
     "url": "https://github.com/vallyscode/crayons/issues"
@@ -40,7 +44,7 @@
         "title": "Crayons: Clear"
       }
     ],
-    "keybindings":[
+    "keybindings": [
       {
         "command": "crayons.highlight",
         "key": "shift+f1"
@@ -63,7 +67,7 @@
                   "fg": "#b7ccdc"
                 },
                 "dark": {
-                  "bg": "#c7d8e4",
+                  "bg": "#0a7383",
                   "fg": "#ffffff"
                 }
               },
@@ -73,7 +77,7 @@
                   "fg": "#c7cae4"
                 },
                 "dark": {
-                  "bg": "#c7cae4",
+                  "bg": "#a07040",
                   "fg": "#ffffff"
                 }
               },
@@ -83,7 +87,7 @@
                   "fg": "#cae4c7"
                 },
                 "dark": {
-                  "bg": "#cae4c7",
+                  "bg": "#4070a0",
                   "fg": "#ffffff"
                 }
               },
@@ -93,8 +97,98 @@
                   "fg": "#c7e4e1"
                 },
                 "dark": {
+                  "bg": "#40a070",
+                  "fg": "#ffffff"
+                }
+              },
+              {
+                "light": {
+                  "bg": "#5184a8",
+                  "fg": "#b7ccdc"
+                },
+                "dark": {
+                  "bg": "#70a040",
+                  "fg": "#ffffff"
+                }
+              },
+              {
+                "light": {
+                  "bg": "#6168b2",
+                  "fg": "#c7cae4"
+                },
+                "dark": {
+                  "bg": "#0070e0",
+                  "fg": "#ffffff"
+                }
+              },
+              {
+                "light": {
+                  "bg": "#68b261",
+                  "fg": "#cae4c7"
+                },
+                "dark": {
+                  "bg": "#007020",
+                  "fg": "#ffffff"
+                }
+              },
+              {
+                "light": {
                   "bg": "#61b2ab",
                   "fg": "#c7e4e1"
+                },
+                "dark": {
+                  "bg": "#d4a00d",
+                  "fg": "#ffffff"
+                }
+              },
+              {
+                "light": {
+                  "bg": "#5184a8",
+                  "fg": "#b7ccdc"
+                },
+                "dark": {
+                  "bg": "#06287e",
+                  "fg": "#ffffff"
+                }
+              },
+              {
+                "light": {
+                  "bg": "#6168b2",
+                  "fg": "#c7cae4"
+                },
+                "dark": {
+                  "bg": "#5b3674",
+                  "fg": "#ffffff"
+                }
+              },
+              {
+                "light": {
+                  "bg": "#68b261",
+                  "fg": "#cae4c7"
+                },
+                "dark": {
+                  "bg": "#4c8f2f",
+                  "fg": "#ffffff"
+                }
+              },
+              {
+                "light": {
+                  "bg": "#61b2ab",
+                  "fg": "#c7e4e1"
+                },
+                "dark": {
+                  "bg": "#1060a0",
+                  "fg": "#ffffff"
+                }
+              },
+              {
+                "light": {
+                  "bg": "#5184a8",
+                  "fg": "#b7ccdc"
+                },
+                "dark": {
+                  "bg": "#a0b0c0",
+                  "fg": "#ffffff"
                 }
               }
             ]
